@@ -12,4 +12,5 @@ This is a simple **JavaScript-based Weather App** that fetches and displays curr
 - 📅 Shows the current day of the week
 - ☁️ Displays current weather condition (e.g., Mist, Clear, Rain)
 
+link: https://myweatherappagain.vercel.app/
 ---
